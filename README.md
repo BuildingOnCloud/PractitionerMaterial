@@ -5,4 +5,4 @@ Incluye:
 - Guias de Estudio
 - Notas de Estudio en formato Cornell
 - Archivo comprimido Obsidian
-  Solo debe descomprimirse y indicarle al software Obsidian que lea la carpeta
+  (Solo debe descomprimirse y indicarle al software Obsidian que lea la carpeta)
